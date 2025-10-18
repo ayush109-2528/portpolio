@@ -5,7 +5,7 @@ const projects = [
     title: "AQI Prediction",
     description: "Designed and implemented a machine learning model to forecast India’s Air Quality Index using historical environmental data. This project transforms raw data into interactive, easy-to-understand visual insights, helping raise awareness about pollution levels and promoting informed decision-making for healthier living.",
     image: "/projects/project1.png",
-    tags: ["Python", "AI/ML", "Jupyter Notebool"],
+    tags: ["Python", "AI/ML", "Jupyter Notebook"],
     demoUrl: "https://github.com/ayush109-2528/AQI_prediction",
     githubUrl: "https://github.com/ayush109-2528/AQI_prediction",
   },
@@ -48,6 +48,16 @@ const projects = [
     tags: ["React", "Node.js", "HTML/CSS", "Express"],
     demoUrl: "https://github.com/ayush109-2528/Full-stack/tree/main/react/Keeper-App",
     githubUrl: "https://github.com/ayush109-2528/Full-stack/tree/main/react/Keeper-App",
+  },
+    {
+    id: 5,
+    title: "Speech To Text",
+    description:
+      "This web application provides fast and accurate speech-to-text transcription using Deepgram technology, allowing users to record or upload audio seamlessly. It features real-time transcription, secure user authentication via Supabase, transcription history with database storage, and an intuitive, responsive UI. Users can sign up, sign in, or reset passwords through a modern, modal-based interface with background blur effects. The app is fully deployed and optimized for real-world use, delivering clear and accessible transcription services for meetings, lectures, and personal notes.",
+    image: "/projects/project6.png",
+    tags: ["React", "Node.js", "HTML/CSS", "Express"],
+    demoUrl: "https://speech-to-text-blue.vercel.app/",
+    githubUrl: "https://github.com/ayush109-2528/Speech-to-text",
   },
 ];
 
